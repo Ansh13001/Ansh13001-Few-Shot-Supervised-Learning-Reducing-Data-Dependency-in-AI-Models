@@ -1,1 +1,1 @@
-# Ansh13001-Few-Shot-Supervised-Learning-Reducing-Data-Dependency-in-AI-Models
+# Few-Shot-Supervised-Learning-Reducing-Data-Dependency-in-AI-Models
